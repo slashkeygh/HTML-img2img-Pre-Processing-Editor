@@ -10,3 +10,7 @@ It is kinda janky and not always snappy. It suits my own purposes and that is go
 
 1. img2imgPreEditorV2-BySlashkeyStudio.html - Includes both the image editor tab and video frame extraction tab.
 2. AdvancedRGBNoiseGeneration-BySlashkeyStudio - Older version that only includes an old version of the image editor.
+
+Just download and open the file in a browser.
+
+If you are concerned about safety, feel free to run them through an AI to check them.
