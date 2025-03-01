@@ -1,4 +1,4 @@
-**HTML img2img Pre-Processing-Editor**
+**HTML img2img Pre-Processing Editor**
 
 This was developed as a convenient way to prepare images prior to using them as img2img input images for various AI image generation operations.
 
